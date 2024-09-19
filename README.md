@@ -1,1 +1,1 @@
-The control labs from UC Berkeley
+The control design labs from UC Berkeley
